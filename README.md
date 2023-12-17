@@ -22,7 +22,7 @@ Tras **desconectarnos de internet**, nos dirigiremos en nuestro Ubuntu Server al
 
 > sudo nano /etc/netplan/00-installer-config.yaml
 
-[Imagen del contenido que tenemos que introducir en el archivo .yaml](imagenes/netplan-installer.config.yaml.png)
+![Imagen del contenido que tenemos que introducir en el archivo .yaml](imagenes/netplan-installer.config.yaml.png)
 
 > [!NOTE]
 > En esta sección, hemos llevado a cabo la configuración detallada de las interfaces de red. Este proceso incluyó la definición de las direcciones IP y la especificación de los servidores DNS correspondientes.
